@@ -1,0 +1,40 @@
+#heading {
+  font-family:courier new;
+  font-size: 3vw;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#subheading {
+  font-family: inherit;
+  font-size: 2vw;
+}
+
+body {
+  background: url('orange-cat-foot-on-laptop-keyboard-1440387.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+}
+
+.navbar {
+  margin-top: -2em;
+}
+
+.container {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+#intro {
+  margin-top: 2em;
+  float:right;
+}
+
+#intro_photo {
+  margin-top: 2em;
+  margin-right: -4em;
+
+}
